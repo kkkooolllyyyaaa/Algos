@@ -3,5 +3,7 @@
 * C++
 * Java
 * Python
+## Профиль в LeetCode
+### https://leetcode.com/swimfish7/ ###
 
 За Code Style и читаемость не ручаюсь, большинство задач были решены во время учебы в школе
