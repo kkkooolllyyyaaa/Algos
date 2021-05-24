@@ -5,5 +5,5 @@
 * Python
 ## Профиль в LeetCode
 ### https://leetcode.com/swimfish7/ ###
-
+## P.S.
 За Code Style и читаемость не ручаюсь, большинство задач были решены во время учебы в школе
